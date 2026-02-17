@@ -51,7 +51,7 @@ Ez lehet cikk, táblázat, jegyzet, konkrét szerkezet, szkript vagy bármilyen 
 
 ---
 
-### Extras (Aranykulcs – kiegészítők)
+### Extras (Kiegészítők)
 Az LLM-ek (nagy nyelvi modellek) chat-alapúak, így emberi interakcióra vannak optimalizálva.  
 Ezt kihasználva javíthatod a kommunikációt: dicsérheted a jó választ, visszajelzést adhatsz, kérheted, hogy ignorálja az előző üzeneteket, vagy igazolja a válaszát.  
 Egy-egy szó vagy mondat jelentősen befolyásolhatja az AI válaszát.  
