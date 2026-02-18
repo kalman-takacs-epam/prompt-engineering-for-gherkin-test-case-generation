@@ -80,6 +80,8 @@ https://copilot.microsoft.com/
 Claude
 https://claude.ai/
 
+---
+
 > **Fontos:**  
 > Nem minden prompt igényli a CREATE minden elemét. Válaszd ki és használd azokat, amelyek az adott feladathoz szükségesek!
 
